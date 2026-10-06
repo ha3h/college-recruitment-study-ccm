@@ -1,0 +1,93 @@
+,hs_class,ap_class,dual_enrollment,interest_level,current_course,enrichment,curiosity,degree_program,age,web,cybersecurity,apps,analytics,ml_ai,programming,gamedev,hardware
+0,No Impact,,,2,CMP 126 Computer Technology and Applications,Yes,Yes,Liberal Arts,19-20,Yes,Yes,No,No,No,No,No,No
+1,Some Impact,Some Impact,Some Impact,3,CMP 126 Computer Technology and Applications,Yes,Yes,child psychology ,19-20,No,Yes,Yes,Yes,Yes,Yes,No,No
+2,,,,5,CMP 126 Computer Technology and Applications,No,No,Broadcasting Arts and Technology,18 and younger,Yes,No,Yes,No,Yes,Yes,Yes,Yes
+3,No Impact,No Impact,No Impact,3,CMP 126 Computer Technology and Applications,No,No,analyst,19-20,No,No,No,Yes,No,No,Yes,No
+4,Some Impact,,,3,CMP 101 Computer Information Literacy,Yes,Yes,Journalism,19-20,No,No,No,No,No,No,No,No
+5,Some Impact,Some Impact,Some Impact,3,CMP 101 Computer Information Literacy,Yes,Yes,Liberal Arts,19-20,Yes,No,Yes,No,No,No,Yes,No
+6,No Impact,No Impact,No Impact,3,CMP 101 Computer Information Literacy,Yes,Yes,Early Childhood Education,19-20,No,No,No,No,No,No,Yes,No
+7,No Impact,No Impact,No Impact,3,CMP 101 Computer Information Literacy,No,No,Nursing,18 and younger,No,No,No,No,No,No,No,No
+8,No Impact,No Impact,No Impact,2,CMP 126 Computer Technology and Applications,No,No,Liberal Arts,19-20,No,No,No,Yes,No,No,No,Yes
+9,No Impact,No Impact,No Impact,1,CMP 101 Computer Information Literacy,No,No,Liberal Arts,19-20,No,No,No,No,No,No,No,No
+10,No Impact,Some Impact,Some Impact,2,CMP 101 Computer Information Literacy,No,No,Nursing,25-34,Yes,No,Yes,No,No,Yes,No,No
+11,No Impact,No Impact,No Impact,2,CMP 135 Computer Concepts with Applications,No,No,Radiography,21-24,No,No,No,No,No,No,No,No
+12,No Impact,No Impact,No Impact,2,CMP 135 Computer Concepts with Applications,No,No,Radiography,21-24,No,No,No,No,No,No,No,No
+13,Some Impact,No Impact,No Impact,1,CMP 135 Computer Concepts with Applications,No,No,Radiography,21-24,No,No,No,No,No,No,No,No
+14,No Impact,No Impact,No Impact,2,CMP 135 Computer Concepts with Applications,No,No,Radiography,18 and younger,No,No,No,No,No,No,Yes,No
+15,No Impact,No Impact,No Impact,2,CMP 135 Computer Concepts with Applications,Yes,Yes,Exercise Science,19-20,No,No,No,No,Yes,No,No,No
+16,No Impact,No Impact,No Impact,2,CMP 135 Computer Concepts with Applications,No,No,Radiography,18 and younger,No,No,No,No,No,No,No,No
+17,No Impact,No Impact,No Impact,2,CMP 135 Computer Concepts with Applications,Yes,No,Exercise Science,18 and younger,No,No,No,No,No,No,No,No
+18,No Impact,No Impact,No Impact,4,CMP 135 Computer Concepts with Applications,No,No,Radiography,18 and younger,Yes,No,Yes,No,Yes,Yes,Yes,Yes
+19,Some Impact,No Impact,No Impact,2,CMP 135 Computer Concepts with Applications,Yes,No,Engineering Science,19-20,No,No,No,Yes,Yes,Yes,No,Yes
+20,No Impact,No Impact,No Impact,3,CMP 135 Computer Concepts with Applications,No,No,Radiography,18 and younger,No,No,No,No,No,No,No,No
+21,No Impact,No Impact,No Impact,2,CMP 135 Computer Concepts with Applications,No,No,Engineering Science,19-20,No,No,No,No,No,No,No,No
+22,No Impact,No Impact,No Impact,2,CMP 135 Computer Concepts with Applications,No,No,Radiography,25-34,No,No,No,No,No,No,No,No
+23,No Impact,No Impact,No Impact,3,CMP 101 Computer Information Literacy,Yes,Yes,Radiography,25-34,No,Yes,No,No,No,No,No,No
+24,Some Impact,,Some Impact,5,CMP 135 Computer Concepts with Applications,No,Yes,Radiography,19-20,Yes,Yes,No,Yes,No,Yes,No,Yes
+25,No Impact,No Impact,No Impact,2,CMP 135 Computer Concepts with Applications,Yes,Yes,Music Technology,18 and younger,No,No,No,No,No,No,Yes,No
+26,No Impact,No Impact,No Impact,2,CMP 135 Computer Concepts with Applications,Yes,No,Nursing,19-20,Yes,Yes,Yes,No,No,No,Yes,No
+27,No Impact,No Impact,No Impact,2,CMP 135 Computer Concepts with Applications,Yes,Yes,Engineering Science,19-20,No,No,No,No,No,Yes,No,No
+28,No Impact,No Impact,No Impact,3,CMP 135 Computer Concepts with Applications,Yes,Yes,Radiography,25-34,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+29,Some Impact,No Impact,No Impact,2,CMP 135 Computer Concepts with Applications,Yes,Yes,Radiography,21-24,No,No,No,Yes,No,No,No,No
+30,Some Impact,No Impact,No Impact,2,CMP 135 Computer Concepts with Applications,No,No,Radiography,21-24,No,No,No,No,No,No,No,No
+31,No Impact,,,4,CMP 135 Computer Concepts with Applications,Yes,Yes,Radiography,18 and younger,No,Yes,No,Yes,No,No,Yes,No
+32,Some Impact,No Impact,No Impact,1,CMP 135 Computer Concepts with Applications,Yes,Yes,Radiography,18 and younger,Yes,No,Yes,No,Yes,No,Yes,No
+33,No Impact,No Impact,No Impact,3,CMP 101 Computer Information Literacy,No,Yes,Liberal Arts,35-64,No,Yes,No,Yes,No,No,No,Yes
+34,No Impact,No Impact,No Impact,1,CMP 101 Computer Information Literacy,Yes,Yes,"Nursing, but not at CCM - I am a visiting student ",21-24,No,Yes,No,No,No,No,No,No
+35,Some Impact,No Impact,No Impact,1,CMP 135 Computer Concepts with Applications,Yes,Yes,Radiography,19-20,No,No,No,No,No,No,No,No
+36,No Impact,No Impact,No Impact,3,CMP 135 Computer Concepts with Applications,Yes,Yes,Radiography,21-24,Yes,No,Yes,No,No,No,No,No
+37,No Impact,No Impact,No Impact,1,CMP 135 Computer Concepts with Applications,No,No,Liberal Arts,19-20,No,No,No,No,No,No,No,No
+38,Some Impact,No Impact,No Impact,3,CMP 135 Computer Concepts with Applications,Yes,Yes,Psychology,19-20,No,Yes,No,No,No,No,No,No
+39,No Impact,No Impact,No Impact,2,CMP 135 Computer Concepts with Applications,Yes,No,Radiography,19-20,No,No,No,No,Yes,No,No,No
+40,No Impact,No Impact,No Impact,5,CMP 135 Computer Concepts with Applications,Yes,Yes,Nursing,21-24,Yes,No,No,No,Yes,Yes,No,No
+41,,,,5,CMP 135 Computer Concepts with Applications,No,No,Radiography,18 and younger,No,Yes,No,No,Yes,No,Yes,No
+42,No Impact,No Impact,No Impact,1,CMP 135 Computer Concepts with Applications,No,Yes,Criminal Justice,19-20,No,No,No,No,No,No,No,No
+43,No Impact,No Impact,Some Impact,1,CMP 135 Computer Concepts with Applications,No,No,Not in a degree program,18 and younger,No,No,No,No,No,No,No,No
+44,No Impact,No Impact,No Impact,5,CMP 135 Computer Concepts with Applications,Yes,Yes,Radiography,25-34,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+45,Some Impact,,,3,CMP 135 Computer Concepts with Applications,Yes,Yes,Exercise Science,21-24,Yes,No,Yes,Yes,Yes,Yes,No,No
+46,Some Impact,,,3,CMP 135 Computer Concepts with Applications,No,No,Exercise Science,21-24,No,No,No,No,No,No,No,No
+47,High Impact,No Impact,No Impact,3,CMP 101 Computer Information Literacy,Yes,Yes,Criminal Justice,19-20,No,Yes,Yes,No,No,No,Yes,No
+48,High Impact,No Impact,No Impact,4,CMP 135 Computer Concepts with Applications,No,Yes,Radiography,19-20,No,No,No,No,Yes,No,Yes,No
+49,No Impact,No Impact,No Impact,1,CMP 135 Computer Concepts with Applications,No,No,Radiography,19-20,No,No,No,No,No,No,No,No
+50,High Impact,No Impact,No Impact,4,CMP 101 Computer Information Literacy,Yes,Yes,Biology,19-20,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51,No Impact,No Impact,No Impact,5,CMP 135 Computer Concepts with Applications,Yes,Yes,Radiography,25-34,No,Yes,No,Yes,Yes,Yes,Yes,Yes
+52,No Impact,No Impact,No Impact,3,CMP 126 Computer Technology and Applications,No,No,Criminal Justice,19-20,No,Yes,Yes,No,No,Yes,Yes,Yes
+53,Some Impact,Some Impact,Some Impact,3,CMP 101 Computer Information Literacy,No,No,Liberal Arts,35-64,No,No,No,No,No,No,No,No
+54,Some Impact,No Impact,No Impact,2,CMP 126 Computer Technology and Applications,Yes,No,Broadcasting Arts and Technology,19-20,No,No,No,Yes,No,No,No,Yes
+55,No Impact,No Impact,No Impact,1,CMP 101 Computer Information Literacy,Yes,Yes,Liberal Arts,25-34,No,No,No,No,No,No,No,No
+56,Some Impact,,,3,CMP 101 Computer Information Literacy,Yes,Yes,Not in a degree program,18 and younger,No,No,Yes,No,Yes,No,Yes,No
+57,Some Impact,No Impact,No Impact,4,CMP 126 Computer Technology and Applications,Yes,Yes,Criminal Justice,19-20,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+58,High Impact,No Impact,No Impact,3,CMP 126 Computer Technology and Applications,No,Yes,Culinary Arts and Sciences,21-24,No,Yes,Yes,No,Yes,Yes,Yes,No
+59,High Impact,High Impact,,2,CMP 135 Computer Concepts with Applications,No,No,Radiography,19-20,Yes,Yes,Yes,Yes,No,Yes,No,No
+60,Some Impact,Some Impact,No Impact,3,CMP 101 Computer Information Literacy,Yes,Yes,Nursing,21-24,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+61,No Impact,No Impact,No Impact,1,CMP 126 Computer Technology and Applications,No,No,Broadcasting Arts and Technology,19-20,No,No,No,No,No,No,No,No
+62,Some Impact,No Impact,No Impact,1,CMP 126 Computer Technology and Applications,No,No,Liberal Arts,19-20,No,No,No,No,No,No,No,No
+63,Some Impact,,,2,CMP 135 Computer Concepts with Applications,Yes,Yes,Radiography,25-34,No,No,No,No,No,No,No,No
+64,No Impact,No Impact,No Impact,3,CMP 126 Computer Technology and Applications,Yes,Yes,Liberal Arts,25-34,No,Yes,No,Yes,Yes,No,Yes,Yes
+65,No Impact,No Impact,No Impact,2,CMP 135 Computer Concepts with Applications,Yes,No,History Education,19-20,No,Yes,No,Yes,Yes,No,No,Yes
+66,No Impact,No Impact,No Impact,3,CMP 126 Computer Technology and Applications,No,No,Not in a degree program,19-20,No,No,Yes,No,No,No,Yes,No
+67,High Impact,,,3,CMP 126 Computer Technology and Applications,Yes,Yes,Biology - Environmental Track,19-20,No,No,No,Yes,No,Yes,No,Yes
+68,No Impact,No Impact,No Impact,3,CMP 101 Computer Information Literacy,No,No,Nursing,18 and younger,No,Yes,Yes,No,Yes,Yes,Yes,No
+69,High Impact,No Impact,No Impact,2,CMP 126 Computer Technology and Applications,Yes,No,Liberal Arts,19-20,Yes,No,No,No,No,No,No,No
+70,No Impact,No Impact,No Impact,2,CMP 126 Computer Technology and Applications,No,Yes,Liberal Arts,19-20,No,No,No,No,No,No,No,No
+71,No Impact,No Impact,No Impact,1,CMP 126 Computer Technology and Applications,No,No,Communication,19-20,No,No,No,No,No,No,No,No
+72,Some Impact,,,1,CMP 101 Computer Information Literacy,Yes,Yes,Child and Family Studies,21-24,No,No,No,No,No,No,No,No
+73,Some Impact,,,3,CMP 135 Computer Concepts with Applications,Yes,Yes,Radiography,21-24,Yes,Yes,No,No,Yes,No,No,Yes
+74,No Impact,No Impact,No Impact,2,CMP 126 Computer Technology and Applications,Yes,Yes,Musical Theatre,19-20,No,No,No,No,No,No,Yes,No
+75,No Impact,No Impact,No Impact,3,CMP 101 Computer Information Literacy,Yes,Yes,Nursing,19-20,No,No,No,No,No,No,No,No
+76,Some Impact,Some Impact,Some Impact,3,CMP 101 Computer Information Literacy,Yes,Yes,Liberal Arts,35-64,Yes,No,No,No,No,No,No,Yes
+77,Some Impact,Some Impact,Some Impact,3,CMP 101 Computer Information Literacy,No,No,Liberal Arts,35-64,No,No,No,No,No,No,No,Yes
+78,,,,3,CMP 126 Computer Technology and Applications,No,No,Liberal Arts,19-20,No,Yes,No,No,No,No,No,No
+79,No Impact,No Impact,No Impact,4,CMP 126 Computer Technology and Applications,Yes,No,Early Childhood Education,25-34,Yes,Yes,Yes,No,Yes,No,No,No
+80,No Impact,No Impact,No Impact,2,CMP 126 Computer Technology and Applications,Yes,No,Child and Family Studies,35-64,No,No,No,No,No,No,No,No
+81,No Impact,No Impact,No Impact,2,CMP 126 Computer Technology and Applications,No,No,Fire Science ,21-24,No,No,No,No,No,No,No,No
+82,Some Impact,Some Impact,Some Impact,3,CMP 126 Computer Technology and Applications,Yes,Yes,Criminal Justice,19-20,No,Yes,No,No,No,No,Yes,Yes
+83,No Impact,No Impact,No Impact,1,CMP 126 Computer Technology and Applications,No,No,Child and Family Studies,19-20,No,No,No,No,No,No,No,No
+84,No Impact,No Impact,No Impact,1,CMP 126 Computer Technology and Applications,No,No,Child and Family Studies,19-20,No,No,No,No,No,No,No,No
+85,,,,3,CMP 126 Computer Technology and Applications,No,No,Liberal Arts,35-64,No,Yes,No,Yes,Yes,No,No,No
+86,,,,5,CMP 126 Computer Technology and Applications,Yes,Yes,Nursing,25-34,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+87,Some Impact,Some Impact,High Impact,3,CMP 101 Computer Information Literacy,No,Yes,Early Childhood Education,21-24,No,Yes,No,No,No,Yes,Yes,No
+88,No Impact,No Impact,No Impact,3,CMP 126 Computer Technology and Applications,Yes,Yes,Liberal Arts,19-20,Yes,Yes,Yes,No,No,No,No,No
+89,No Impact,No Impact,No Impact,1,CMP 126 Computer Technology and Applications,No,No,Liberal Arts,19-20,No,No,No,No,Yes,No,Yes,No
+90,High Impact,No Impact,No Impact,3,CMP 101 Computer Information Literacy,No,Yes,Nursing,19-20,No,No,No,No,No,No,No,No
+91,Some Impact,No Impact,No Impact,5,CMP 126 Computer Technology and Applications,Yes,Yes,Child and Family Studies,21-24,No,No,No,No,Yes,No,No,Yes
